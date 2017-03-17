@@ -1,0 +1,12 @@
+{
+	"DOTA2":{
+		"bots":[
+	    {
+	        "steam_name" : "d2gb0004",
+	        "steam_user" : "d2gb0004",
+	        "steam_pass" : "passwordrandom123",
+	        "steam_guard_code" : "steamGuardCodeIfApplicable"
+	    }
+		]
+	}
+}
